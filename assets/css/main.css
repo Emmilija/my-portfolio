@@ -2146,9 +2146,11 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.45);
 		text-align: center;
 		padding: 2em 0 0 0;
-		font-size: 0.75em;
+		font-size: 1.3em;
 	}
-
+ .footerel {
+	font-size: 0.60em;
+ }
 		#footer a {
 			color: #ddd;
 			color: rgba(255, 255, 255, 0.65);
